@@ -1,2 +1,2 @@
 # Produtos-API
-API desenvolvida com Spring
+API de produtos desenvolvida com Spring e H2 como banco de dados.
